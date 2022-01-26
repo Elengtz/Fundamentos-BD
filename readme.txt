@@ -1,3 +1,9 @@
+<h1 align="center">FUNDAMENTOS DE BASES DE DATOS</h1>
+
+<p align="center">
+  <img src="basededatos.png">
+</p>
+
 Este es un repositorio para la materia de Fundamentos de Base de Datos
 
 OBJETIVO DE LA ASIGNATURA: Analiza requerimientos y diseña bases de datos para generar soluciones al tratamiento de información
